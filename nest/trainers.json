@@ -1,0 +1,34 @@
+{
+    "_id" : ObjectId("6454ec47bde2e42ce9cc8e43"),
+    "firstName" : "Chen",
+    "lastName" : "Boharon",
+    "email" : "chenboaron93@gmail.com",
+    "password" : "$2b$10$ZvXd7Dms/WknI6eJUt4oMu.dVZrWPlNg2ZMRvs2F4R..1U2B5ZTGK",
+    "__v" : NumberInt(0),
+    "heroesList" : [
+        "6c5b6d5e-1111-1111-1111-8c989a7b1c89",
+        "d39e0e07-3aa3-49c6-a88d-47a07e7a7345"
+    ]
+}
+{
+    "_id" : ObjectId("6456c9c0e9c6be2f5611fcfd"),
+    "firstName" : "orly",
+    "lastName" : "Boharon",
+    "email" : "orlyboharon@gmail.com",
+    "password" : "$2b$10$uWUSH.F/aZFFpV44tQH0T.qlgbuE4unoHiv7NgShmzPXDemmTY7qy",
+    "__v" : NumberInt(0),
+    "heroesList" : [
+        "d39e0e07-3aa3-49c6-a88d-47a07e7a7345"
+    ]
+}
+{
+    "_id" : ObjectId("645705be751c713078381bdc"),
+    "firstName" : "chen",
+    "lastName" : "Boboharon",
+    "email" : "chenbo@gmail.com",
+    "password" : "$2b$10$ZvXd7Dms/WknI6eJUt4oMu.dVZrWPlNg2ZMRvs2F4R..1U2B5ZTGK",
+    "heroesList" : [
+
+    ],
+    "__v" : NumberInt(0)
+}

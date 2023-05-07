@@ -1,0 +1,66 @@
+{
+    "_id" : ObjectId("642213ac30b79d0457cd4c55"),
+    "fullName" : "orly boharon",
+    "email" : "orly@gmail.com",
+    "address" : "shir hashirim 71 elkana",
+    "acl" : "owner",
+    "__v" : NumberInt(0),
+    "lat" : 29.5577,
+    "lon" : 29.5577,
+    "id" : "642213ac30b79d0457cd4c55"
+}
+{
+    "_id" : ObjectId("642213bd30b79d0457cd4c56"),
+    "fullName" : "chen boharon",
+    "email" : "chen@gmail.com",
+    "address" : "shir hashirim 71 elkana",
+    "acl" : "owner",
+    "__v" : NumberInt(0),
+    "lat" : 29.5577,
+    "lon" : 29.5577,
+    "id" : "642213bd30b79d0457cd4c56"
+}
+{
+    "_id" : ObjectId("642213de30b79d0457cd4c57"),
+    "fullName" : "ram boharon",
+    "email" : "ram@gmail.com",
+    "address" : "shir hashirim 71 elkana",
+    "acl" : "owner",
+    "__v" : NumberInt(0),
+    "lat" : 29.5577,
+    "lon" : 29.5577,
+    "id" : "642213de30b79d0457cd4c57"
+}
+{
+    "_id" : ObjectId("6422275757f863ef13fadd4f"),
+    "id" : "2344",
+    "fullName" : "fdsfdsf fsdf",
+    "email" : "fsdf@gmail.com",
+    "address" : "shir hashirim 71 elkana",
+    "acl" : "owner",
+    "lat" : 90.11,
+    "lon" : 89.22,
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6422284a57f863ef13fadd52"),
+    "id" : "3ab1816a-dbe4-4779-a7c8-64a61cb4b5c8",
+    "fullName" : "dsff",
+    "email" : "fds@dsf.com",
+    "address" : "fgdf",
+    "acl" : "administrator",
+    "lat" : NumberInt(32),
+    "lon" : NumberInt(32),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6422332c57f863ef13fadd60"),
+    "id" : "cb065970-9bab-40ad-8f65-cf5356dbba34",
+    "fullName" : "dsad",
+    "email" : "dsdsfsda@sdf.com",
+    "address" : "dassdfsd",
+    "acl" : "administrator",
+    "lat" : NumberInt(33),
+    "lon" : NumberInt(33),
+    "__v" : NumberInt(0)
+}

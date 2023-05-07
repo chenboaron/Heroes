@@ -1,0 +1,51 @@
+{
+    "_id" : ObjectId("6454075ae7f95038cfa15ae2"),
+    "name" : "Wonder Woman",
+    "ability" : "defender",
+    "guid" : "6c5b6d5e-1111-1111-1111-8c989a7b1c89",
+    "startDate" : ISODate("2022-06-01T12:00:00.000+0000"),
+    "suitColors" : [
+        "red",
+        "blue",
+        "pink"
+    ],
+    "startingPower" : NumberInt(90),
+    "currentPower" : NumberInt(85),
+    "__v" : NumberInt(0),
+    "trainingCount" : NumberInt(2),
+    "trainingDate" : ISODate("2023-05-07T12:34:56.789+0000")
+}
+{
+    "_id" : ObjectId("64540785e7f95038cfa15ae4"),
+    "name" : "Super Man",
+    "ability" : "defender",
+    "guid" : "6c5b6d5e-7b20-4cf9-a9a0-8c989a7b1c89",
+    "startDate" : ISODate("2022-06-01T12:00:00.000+0000"),
+    "suitColors" : [
+        "red",
+        "blue",
+        "gold",
+        "black"
+    ],
+    "startingPower" : NumberInt(10),
+    "currentPower" : NumberInt(45),
+    "__v" : NumberInt(0),
+    "trainingCount" : NumberInt(5),
+    "trainingDate" : ISODate("2023-05-07T12:34:56.789+0000")
+}
+{
+    "_id" : ObjectId("6454087be7f95038cfa15ae8"),
+    "name" : "Spider-Man",
+    "ability" : "attacker",
+    "guid" : "d39e0e07-3aa3-49c6-a88d-47a07e7a7345",
+    "startDate" : ISODate("2022-03-01T12:00:00.000+0000"),
+    "suitColors" : [
+        "red",
+        "blue"
+    ],
+    "startingPower" : NumberInt(80),
+    "currentPower" : 80.88889977284724,
+    "__v" : NumberInt(0),
+    "trainingCount" : NumberInt(2),
+    "trainingDate" : ISODate("2023-05-07T03:36:51.059+0000")
+}
