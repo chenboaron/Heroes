@@ -69,13 +69,7 @@ export class HeroesService {
 
 
   private async getMyHeroes(trainer): Promise<Hero[]> {
-    const heroes: Hero[] = [];
-    for (const guid of trainer.heroesList) {
-      const hero = await this.findOneByGuid(guid);
-      if (hero) {
-        heroes.push(hero)
-      }
-    }
+    const heroes = await this.heroModel.find({ guid: { $in: trainer.heroesList } }).exec();
     return heroes;
   }
 
